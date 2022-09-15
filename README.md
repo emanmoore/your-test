@@ -113,7 +113,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 <img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
 
-### :keyboard: Activity: Adding an image
+## :keyboard: Activity: Adding an image
 
 1. As you did before, edit the `index.md` file in this pull request.
 1. In the file, add the correct Markdown for your image of choice. Don't forget to include alt-text!
